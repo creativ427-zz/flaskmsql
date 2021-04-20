@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+    font-weight:bold;
+    font-family:arial;
+}
+
+body{
+    margin:0;
+}
+#jumbotron{
+    background-image: url(https://www.tutorialmines.net/wp-content/uploads/2018/11/bg.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+}

@@ -1,0 +1,4 @@
+  mysql_user : root
+  mysql_host : localhost
+  mysql_password : 123456
+  mysql_db : phplibrary
